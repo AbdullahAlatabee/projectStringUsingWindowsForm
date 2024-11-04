@@ -1,0 +1,11 @@
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\bin\Debug\Abdullah_Hassan_Abdo_Hassan.exe.config
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\bin\Debug\Abdullah_Hassan_Abdo_Hassan.exe
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\bin\Debug\Abdullah_Hassan_Abdo_Hassan.pdb
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.csproj.AssemblyReference.cache
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.csproj.SuggestedBindingRedirects.cache
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.Form1.resources
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.Properties.Resources.resources
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.csproj.GenerateResource.cache
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.csproj.CoreCompileInputs.cache
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.exe
+C:\Users\CFP\source\repos\Abdullah_Hassan_Abdo_Hassan\Abdullah_Hassan_Abdo_Hassan\obj\Debug\Abdullah_Hassan_Abdo_Hassan.pdb
